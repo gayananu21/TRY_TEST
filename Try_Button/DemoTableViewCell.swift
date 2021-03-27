@@ -42,7 +42,7 @@ class DemoTableViewCell: UITableViewCell {
         self.myCount = self.myCount+1
         self.myLabel.text = String(self.myCount)
         
-        print("A New Commit")
+        
         
     }
     
